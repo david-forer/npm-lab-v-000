@@ -11,5 +11,8 @@
     "url": "david-forer"
   },
   "author": "david forer",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
 }
