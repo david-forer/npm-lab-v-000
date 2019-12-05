@@ -4,7 +4,7 @@
   "description": "not sure",
   "main": "y",
   "scripts": {
-    "test": "test"
+    "test": "echo 'Hello World!'"
   },
   "repository": {
     "type": "git",
